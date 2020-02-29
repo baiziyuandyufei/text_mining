@@ -3,5 +3,5 @@
 *.npz
 .vscode/
 data/
-doc/
-011.深度学习Keras快速开发指南.pdf
+教材文档/
+论文文档/
